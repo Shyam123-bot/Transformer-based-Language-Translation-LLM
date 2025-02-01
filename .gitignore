@@ -5,4 +5,5 @@ runs/
 weights/
 
 wandb/
-env
+# Ignore virtual environment folder
+langtrans-venv/
